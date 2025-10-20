@@ -1,0 +1,6 @@
+# Dependencias
+node_modules/
+mysql_data/
+
+# Variables de entorno
+.env
